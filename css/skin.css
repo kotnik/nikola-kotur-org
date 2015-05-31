@@ -12,6 +12,9 @@ ul li, ol li {
   padding:0 0 0.4em 0;
 }
 
+p {
+  font-size: 1.3em;
+}
 
 .container {
   max-width:1300px;
